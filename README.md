@@ -17,3 +17,5 @@ Other review papers for the BEP project:
 [4] Buttenschön, Andreas, and Leah Edelstein-Keshet. "Bridging from single to collective cell migration: A review of models and links to experiments." PLOS Computational Biology 16.12 (2020): e1008411.
 
 [5] Van Helvert, Sjoerd, Cornelis Storm, and Peter Friedl. "Mechanoreciprocity in cell migration." Nature cell biology 20.1 (2018): 8-20.
+
+[6] Deutsch, Andreas, et al. "Multi-scale analysis and modelling of collective migration in biological systems." Philosophical Transactions of the Royal Society B 375.1807 (2020): 20190377.
